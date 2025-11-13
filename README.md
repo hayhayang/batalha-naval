@@ -40,7 +40,7 @@ gcc batalha_naval.c -o batalha
 - Terminal/Prompt de Comando
 
 ## Autor
-Projeto criado para estudos acadêmicos com auxílio do ChatGPT.
+Projeto criado para estudos acadêmicos por Jeferson Cavicliolle Dorta
 
 ## Licença
 Uso livre para fins educacionais.
